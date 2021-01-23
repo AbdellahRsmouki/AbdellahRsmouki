@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AbdellahRsmouki/AbdellahRsmouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 😄 Pronouns: he/him
 - ⚡ 🔭 I am a software engineer, full-stack Developer, and passionate about mobile development and UX/UI Design.
 
